@@ -1,0 +1,89 @@
+body {
+  text-align: center;
+  background-color: black;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #DDDA00;
+  font-family: "Arvo", cursive;
+  text-shadow: 5px 0 #DD1D00;
+  margin: 0.8em auto 0.2em;
+  padding: 0;
+}
+
+img {
+  margin: 0;
+  padding: 0;
+  border-radius: 10px;
+  width: 25em;
+}
+
+footer {
+  color: #DDDA00;
+  text-shadow: 2px 0 #DD1D00;
+  font-family: sans-serif;
+}
+
+.a {
+  background-image: url("images/1.jpeg");
+  background-size: cover;
+}
+
+.s {
+  background-image: url("images/2.jpeg");
+  background-size: cover;
+}
+
+.d {
+  background-image: url("images/3.jpeg");
+  background-size: cover;
+}
+
+.f {
+  background-image: url("images/3.jpeg");
+  background-size: cover;
+}
+
+.j {
+  background-image: url("images/3.jpeg");
+  background-size: cover;
+}
+
+.k {
+  background-image: url("images/4.jpeg");
+  background-size: cover;
+}
+
+.l {
+  background-image: url("images/4.jpeg");
+  background-size: cover;
+}
+
+.set {
+  margin: 5em auto;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #E6E8BF;
+  opacity: 0.5;
+}
+
+.drum {
+  padding-top: 1.35em;
+  outline: none;
+  border: 10px solid #252531;
+  font-size: 2.8rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #1f1e28;
+  text-shadow: 3px 0 #A2A7A9;
+  border-radius: 10px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: #A2A7A9;
+}
